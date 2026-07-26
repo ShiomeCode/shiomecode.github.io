@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.shiomecode.my_banking_widget",
+    "sha256_cert_fingerprints": [
+      "0D:1A:2D:17:CE:35:80:45:E6:E3:74:17:3B:4B:46:6A:0B:A0:5F:24:8C:33:44:95:12:96:70:51:84:0B:C7:E1"
+    ]
+  }
+}]
